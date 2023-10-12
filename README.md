@@ -1,4 +1,4 @@
-**Project Name:** "Node.js Calculator"
+# NodeCalcy
 
 **Description:**
 Create a versatile and user-friendly calculator application using Node.js. This calculator should handle basic arithmetic operations such as addition, subtraction, multiplication, and division. It can be extended to support advanced operations like square roots, percentages, and trigonometric functions if desired. Users can interact with the calculator through a command-line interface or a web-based GUI.
