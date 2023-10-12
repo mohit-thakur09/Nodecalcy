@@ -1,6 +1,3 @@
-# Nodecalcy
-Certainly! Here's a suggestion for a Node.js calculator project:
-
 **Project Name:** "Node.js Calculator"
 
 **Description:**
@@ -9,9 +6,6 @@ Create a versatile and user-friendly calculator application using Node.js. This 
 **Key Features:**
 - Basic arithmetic operations (addition, subtraction, multiplication, division).
 - Command-line interface for quick calculations.
-- User-friendly web-based GUI with a clean and responsive design.
-- Memory functions (store, recall, and clear).
-- Support for advanced operations (square roots, percentages, trigonometric functions).
 - History feature to view past calculations.
 
 **Technologies:**
