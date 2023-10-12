@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+</head>
+<body>
+    <h1>Currency Convert Program</h1>
+    <form action="/convert" method="post" style="text-align: center;">
+        <table>
+            <tbody>
+                <tr>
+                    <td>
+                        <label for="currency">Currency (in rs.):</label>
+                    </td>
+                    <td>
+                        <input id="currency" type="text" name="rupees">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <select name="type">
+                            <option value="d">Doller</option>
+                            <option value="e">Euro</option>
+                            <option value="p">Pound</option>
+                        </select>
+                    </td>
+                    
+                </tr>
+                <tr>
+                    <td>
+                        <button>Convert</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>
